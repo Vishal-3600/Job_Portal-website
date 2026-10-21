@@ -81,8 +81,8 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham79a/job-portal.git
-cd job-portal
+git clone https://github.com/Vishal-3600/Job_Portal-website.git
+cd Job_Portal-website
 ```
 
 ### 2. Setup Environment Variables
@@ -138,8 +138,7 @@ npm start
 
 
 ## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
+- **Made with 💙 by Vishal Yadav**
 
 ---
 
